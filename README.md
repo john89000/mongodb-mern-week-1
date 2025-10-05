@@ -46,6 +46,7 @@ mongodb-mern-week-1/
 ├── Models/
 │   ├── User.js          # User schema and model
 │   └── Task.js          # Task schema and model
+├── Mongo Atlas images/
 ├── crud.js              # CRUD operations demonstration
 ├── db.js                # Database connection configuration
 ├── seed.js              # Data seeding script
@@ -67,7 +68,7 @@ Before running this project, ensure you have:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/PLP-MERN-Stack-Development/mongodb-mern-week-1.git
+    git clone https://github.com/john89000/mongodb-mern-week-1.git
    cd mongodb-mern-week-1
    ```
 
